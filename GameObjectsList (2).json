@@ -1,0 +1,381 @@
+{
+  "gameObjects": [
+    {
+      "name": "Health Potion",
+      "type": "consumable",
+      "effect": "Restore 30 HP"
+    },
+    {
+      "name": "Special Potion",
+      "type": "consumable",
+      "effect": "Restore 20 SP"
+    },
+    {
+      "name": "Poison Bomb",
+      "type": "consumable",
+      "effect": "Deal 30 damage to the enemy"
+    },
+    {
+      "name": "Fire Bomb",
+      "type": "consumable",
+      "effect": "Deal 40 damage to the enemy"
+    },
+    {
+      "name": "Spicy Tangle Grenade",
+      "type": "consumable",
+      "effect": "Upon explosion, Deal 30 damage to the enemy."
+    },
+    {
+      "name": "Electro-Shock Trap",
+      "type": "consumable",
+      "effect": "When triggered, Deal 20 damage to the enemy."
+    },
+    {
+      "name": "Numberry Juice",
+      "type": "consumable",
+      "effect": "Restore 30 HP."
+    },
+    {
+      "name": "Soporific Incense Bomb",
+      "type": "consumable",
+      "effect": "Upon detonation, Deal 15 damage."
+    },
+    {
+      "name": "Dizzy Dial",
+      "type": "consumable",
+      "effect": "Restore 20 SP when used."
+    },
+    {
+      "name": "Venomous Needle Dart",
+      "type": "consumable",
+      "effect": "A small dart. Deal 15 damage to the enemy."
+    },
+    {
+      "name": "Firework Flare",
+      "type": "consumable",
+      "effect": "Ignites upon use. Deal 40 damage to the enemy."
+    },
+    {
+      "name": "Chilly Frost Bomb",
+      "type": "consumable",
+      "effect": "Restore 25 HP by invigorating the user with cold energy."
+    },
+    {
+      "name": "Thunder Clap Orb",
+      "type": "consumable",
+      "effect": "Summons a localized thunderstorm, Deal 35 damage to the enemy."
+    },
+    {
+      "name": "Blighted Bola",
+      "type": "consumable",
+      "effect": "Restore 25 SP by absorbing energy from the environment."
+    },
+    {
+      "name": "Sleepy Hollow Reed",
+      "type": "consumable",
+      "effect": "Restore 30 HP with its soothing music."
+    },
+    {
+      "name": "Searing Hot Sauce Vial",
+      "type": "consumable",
+      "effect": "Thrown at an enemy, Deal 25 damage."
+    },
+    {
+      "name": "Quicksilver Quill",
+      "type": "consumable",
+      "effect": "Deal 20 damage to the enemy."
+    },
+    {
+      "name": "Petrifying Picture",
+      "type": "consumable",
+      "effect": "Restore 30 HP by inspiring awe."
+    },
+    {
+      "name": "Bubble-Bound Bomb",
+      "type": "consumable",
+      "effect": "Restore 30 SP by refreshing the user's energy."
+    },
+    {
+      "name": "Gale-Force Fan",
+      "type": "consumable",
+      "effect": "Unleashes a powerful gust, Deal 20 damage to the enemy."
+    },
+    {
+      "name": "Mirage Mirror",
+      "type": "consumable",
+      "effect": "Restore 25 HP by reflecting serene landscapes."
+    },
+    {
+      "name": "Lunar Luminance Lantern",
+      "type": "consumable",
+      "effect": "Restore 25 SP by basking in its calming light."
+    },
+    {
+      "name": "Toxic Toadstool Tincture",
+      "type": "consumable",
+      "effect": "Deal 30 damage to the enemy."
+    },
+    {
+      "name": "Cyclone Cylinder",
+      "type": "consumable",
+      "effect": "Creates a miniature cyclone, Deal 40 damage."
+    },
+    {
+      "name": "Phantom Phial",
+      "type": "consumable",
+      "effect": "Restore 30 HP as it soothes the user's spirit."
+    },
+    {
+      "name": "Ivy-Infused Inkpot",
+      "type": "consumable",
+      "effect": "Deal 25 damage to the enemy by releasing toxic ivy."
+    },
+    {
+      "name": "Sonic Scream Shell",
+      "type": "consumable",
+      "effect": "Restore 20 SP with its invigorating scream."
+    },
+    {
+      "name": "Blizzard Bottle",
+      "type": "consumable",
+      "effect": "Unleashes a blizzard, Deal 35 damage to the enemy."
+    },
+    {
+      "name": "Starlight Syrup",
+      "type": "consumable",
+      "effect": "Restore 40 HP as it fills the user with cosmic energy."
+    },
+    {
+      "name": "Void Vortex Vessel",
+      "type": "consumable",
+      "effect": "Restore 30 SP by drawing in ambient magic."
+    },
+    {
+      "name": "Warp Wood Whistle",
+      "type": "consumable",
+      "effect": "Deal 25 damage to the enemy with a distorted sound wave."
+    },
+    {
+      "name": "Frostfire Figment",
+      "type": "consumable",
+      "effect": "Deal 20 damage to the enemy, combining fire and ice."
+    },
+    {
+      "name": "Nightshade Nectar",
+      "type": "consumable",
+      "effect": "Deal 50 damage to the enemy."
+    },
+    {
+      "name": "Eclipse Eyedrops",
+      "type": "consumable",
+      "effect": "Restore 25 SP, bringing mental clarity."
+    },
+    {
+      "name": "Tempest Teardrop",
+      "type": "consumable",
+      "effect": "Summons a storm, Deal 45 damage to the enemy."
+    },
+    {
+      "name": "Bramble Burst Ball",
+      "type": "consumable",
+      "effect": "Explodes into thorns, Deal 35 damage to the enemy."
+    },
+    {
+      "name": "Dread Drum",
+      "type": "consumable",
+      "effect": "Restore 100 HP with its deep rhythm."
+    },
+    {
+      "name": "Polar Pulse Pebble",
+      "type": "consumable",
+      "effect": "Restore 15 HP by cooling and soothing injuries."
+    },
+    {
+      "name": "Inferno Incense",
+      "type": "consumable",
+      "effect": "Produces smoke that Deal 40 damage to the enemy."
+    },
+    {
+      "name": "Glacial Goblet",
+      "type": "consumable",
+      "effect": "Deal 30 damage to the enemy."
+    },
+    {
+      "name": "Harpy's Hymn Horn",
+      "type": "consumable",
+      "effect": "Restore 100 HP with its enchanting melody."
+    },
+    {
+      "name": "Scorched Scroll",
+      "type": "consumable",
+      "effect": "Casts a fire curse, Deal 30 damage to the enemy."
+    },
+    {
+      "name": "Rift Ring",
+      "type": "consumable",
+      "effect": "Restore 20 SP by calming the mind through dimensional peace."
+    },
+    {
+      "name": "Mystic Moss Muffin",
+      "type": "consumable",
+      "effect": "Restore 125 HP when consumed, thanks to its life-giving spores."
+    },
+    {
+      "name": "Banshee's Bottle",
+      "type": "consumable",
+      "effect": "Restore 20 SP with a scream that clears the mind."
+    },
+    {
+      "name": "Aether Arrowhead",
+      "type": "consumable",
+      "effect": "Restore 115 HP by harmonizing with the user's energy."
+    },
+    {
+      "name": "Spectral Spyglass",
+      "type": "consumable",
+      "effect": "Restore 30 SP by revealing hopeful visions."
+    },
+    {
+      "name": "Chrono Cube",
+      "type": "consumable",
+      "effect": "Restore 40 SP by adjusting the user's temporal energy."
+    },
+    {
+      "name": "Luminous Lure",
+      "type": "consumable",
+      "effect": "Restore 115 HP with its gentle light."
+    },
+    {
+      "name": "Prismatic Prism",
+      "type": "consumable",
+      "effect": "Restore 25 SP by refracting peaceful energy."
+    },
+    {
+      "name": "Void Vine Vial",
+      "type": "consumable",
+      "effect": "Restore 60 HP by absorbing dark energy."
+    },
+    {
+      "name": "Wraith's Whisper Wand",
+      "type": "consumable",
+      "effect": "Restore 40 HP with its ethereal whisper."
+    },
+    {
+      "name": "Zephyr Zest Zeppelin",
+      "type": "consumable",
+      "effect": "Restore 20 SP with refreshing gusts of wind."
+    }
+  ],
+  "playerClasses": [
+    {
+      "name": "Magma Human",
+      "description": "A human who ate a devil fruit, granting the user a body of magma.",
+      "max_hp": 400,
+      "max_sp": 40,
+      "special_attacks": [
+        {
+          "name": "Magma Punch",
+          "description": "Unleash a powerful punch infused with magma energy.",
+          "sp_cost": 8,
+          "damage": 25
+        },
+        {
+          "name": "Volcanic Eruption",
+          "description": "Summon a volcanic eruption to engulf the enemy in flames.",
+          "sp_cost": 10,
+          "damage": 35
+        }
+      ]
+    },
+    {
+      "name": "Rubber Human",
+      "description": "A human who ate a devil fruit granting the user a body of rubber, to fight as one pleases.",
+      "max_hp": 400,
+      "max_sp": 40,
+      "special_attacks": [
+        {
+          "name": "Elastic Force Punch",
+          "description": "Stretch your body to deliver a powerful elastic punch.",
+          "sp_cost": 5,
+          "damage": 25
+        },
+        {
+          "name": "Giant Fist",
+          "description": "Inflate your fist to the size of a Giant's hand, and punch your foe with the force of a thousand gunships",
+          "sp_cost": 10,
+          "damage": 40
+        }
+      ]
+    },
+    {
+      "name": "Bomb Human",
+      "description": "A human who ate a devil fruit to make bombs out of anything.",
+      "max_hp": 400,
+      "max_sp": 40,
+      "special_attacks": [
+        {
+          "name": "Explosive Barrage",
+          "description": "Unleash a barrage of explosive projectiles at the enemy.",
+          "sp_cost": 5,
+          "damage": 30
+        },
+        {
+          "name": "Amplified Bomb Blast",
+          "description": "For some reason, you pull out a ballistic missile and imbue it with your power. It does more damage.",
+          "sp_cost": 10,
+          "damage": 40
+        }
+      ]
+    }
+  ],
+  "enemies": [
+    {
+      "name": "Marauder",
+      "description": "Pirates doomed to roam the seas, attacking all who cross their path. They're skilled in combat and can curse their opponents.",
+      "hp_range": "40-90",
+      "abilities": [
+        {
+          "name": "Cutlass Swipe",
+          "description": "A swift, powerful strike with a cutlass.",
+          "damage": 15
+        },
+        {
+          "name": "Point Blank",
+          "description": "A close-range shot from a flintlock pistol.",
+          "damage": 20
+        },
+        {
+          "name": "Red Blast",
+          "description": "An explosive attack using a small handheld cannon.",
+          "damage": 25
+        }
+      ]
+    }
+  ],
+  "bosses": [
+    {
+      "name": "Pirate Captain",
+      "description": "A legendary pirate captain turned into a fearsome undead monstrosity. He commands dark powers and a crew of ghostly pirates.",
+      "hp_range": "80-180",
+      "abilities": [
+        {
+          "name": "Cannon Barrage",
+          "description": "Unleashes a devastating barrage from the ship's cannons.",
+          "damage": 35
+        },
+        {
+          "name": "Iron Hook Grapple",
+          "description": "A vicious melee attack with a sharp iron hook.",
+          "damage": 30
+        },
+        {
+          "name": "Night Slash",
+          "description": "Attacks with a dark force, causing 25 damage.",
+          "damage": 25
+        }
+      ]
+    }
+  ]
+}
+
+
